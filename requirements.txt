@@ -1,0 +1,43 @@
+# ===== Core =====
+numpy==1.26.4
+pandas==2.2.2
+scipy==1.14.1
+scikit-learn==1.5.1
+
+# ===== Deep Learning (CUDA 11.8) =====
+torch==2.1.2+cu118
+torchvision==0.16.0+cu118
+torchaudio==2.1.0+cu118
+
+# ===== Transformers / LLM =====
+transformers==4.39.1
+tokenizers==0.15.2
+huggingface-hub==0.24.6
+accelerate==0.33.0
+datasets==2.21.0
+safetensors==0.4.4
+
+# ===== LLM Optimization / Inference =====
+vllm==0.4.0+cu118
+xformers==0.0.23.post1+cu118
+auto-gptq==0.6.0+cu118
+
+# ===== ML / Bio / Utilities =====
+biopython==1.84
+networkx==3.3
+sympy==1.13.2
+
+# ===== API / Backend =====
+fastapi==0.112.2
+uvicorn==0.30.6
+pydantic==2.8.2
+
+# ===== Data / IO =====
+pyarrow==17.0.0
+requests==2.32.3
+tqdm==4.66.5
+
+# ===== Optional (keep if needed) =====
+faiss-cpu==1.8.0.post1
+sentencepiece==0.2.0
+protobuf==5.28.0
