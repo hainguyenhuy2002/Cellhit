@@ -1,43 +1,205 @@
 # ===== Core =====
-numpy==1.26.4
-pandas==2.2.2
-scipy==1.14.1
-scikit-learn==1.5.1
+numpy==1.24.4
+pandas==2.0.3
+scipy==1.10.1
+scikit-learn==1.3.2
 
-# ===== Deep Learning (CUDA 11.8) =====
-torch==2.1.2+cu118
-torchvision==0.16.0+cu118
-torchaudio==2.1.0+cu118
+# # ===== Deep Learning (CUDA 11.8) =====
+# torch==2.1.0+cu118
+# torchvision==0.16.0+cu118
+# torchaudio==2.1.0+cu118
 
 # ===== Transformers / LLM =====
-transformers==4.39.1
+transformers==4.38.2
 tokenizers==0.15.2
-huggingface-hub==0.24.6
-accelerate==0.33.0
-datasets==2.21.0
-safetensors==0.4.4
+huggingface-hub==0.23.4
+accelerate==0.28.0
+datasets==2.18.0
+safetensors==0.4.2
 
 # ===== LLM Optimization / Inference =====
-vllm==0.4.0+cu118
-xformers==0.0.23.post1+cu118
-auto-gptq==0.6.0+cu118
+# vllm==0.4.0+cu118
+# xformers==0.0.23.post1+cu118
+# auto-gptq==0.6.0+cu118
+
+# ===== LLM Inference =====
+vllm==0.3.3
+xformers==0.0.23.post1
+auto-gptq==0.6.0
 
 # ===== ML / Bio / Utilities =====
-biopython==1.84
-networkx==3.3
-sympy==1.13.2
+biopython==1.81
+networkx==3.1
+sympy==1.12
 
 # ===== API / Backend =====
-fastapi==0.112.2
-uvicorn==0.30.6
-pydantic==2.8.2
+fastapi==0.110.0
+uvicorn==0.29.0
+pydantic==2.6.4
 
 # ===== Data / IO =====
-pyarrow==17.0.0
-requests==2.32.3
-tqdm==4.66.5
+pyarrow==14.0.2
+requests==2.31.0
+tqdm==4.66.2
 
-# ===== Optional (keep if needed) =====
-faiss-cpu==1.8.0.post1
-sentencepiece==0.2.0
-protobuf==5.28.0
+# ===== Optional =====
+faiss-cpu==1.7.4
+sentencepiece==0.1.99
+protobuf==4.25.3
+
+
+
+
+
+
+
+
+aiohappyeyeballs==2.4.0
+aiohttp==3.10.5
+aiosignal==1.3.1
+alembic==1.13.2
+annotated-types==0.7.0
+anyio==4.4.0
+argon2-cffi==23.1.0
+argon2-cffi-bindings==21.2.0
+arrow==1.3.0
+asttokens==2.4.1
+async-lru==2.0.4
+attrs==24.2.0
+
+babel==2.16.0
+beautifulsoup4==4.12.3
+
+bleach==6.1.0
+cachetools==5.5.0
+cffi==1.17.0
+click==8.1.7
+cloudpickle==3.0.0
+cmaes==0.11.1
+cmake==3.30.2
+coloredlogs==15.0.1
+colorlog==6.8.2
+comm==0.2.2
+contourpy==1.1.1
+cryptography==43.0.0
+cycler==0.12.1
+
+debugpy==1.8.5
+decorator==5.1.1
+defusedxml==0.7.1
+dill==0.3.8
+diskcache==5.6.3
+distro==1.9.0
+executing==2.1.0
+
+
+fastjsonschema==2.20.0
+fonttools==4.53.1
+fqdn==1.5.1
+frozenlist==1.4.1
+fsspec==2024.2.0
+gekko==1.2.1
+gptcache==0.1.44
+greenlet==3.0.3
+guidance==0.1.8
+h11==0.14.0
+httpcore==1.0.5
+httptools==0.6.1
+httpx==0.27.2
+humanfriendly==10.0
+interegular==0.3.3
+isoduration==20.11.0
+jedi==0.19.1
+jiter==0.5.0
+json5==0.9.25
+jsonpointer==3.0.0
+jsonschema==4.23.0
+jsonschema-specifications==2023.12.1
+kiwisolver==1.4.5
+lark==1.2.2
+
+llvmlite==0.40.1
+mako==1.3.5
+matplotlib==3.7.5
+matplotlib-inline==0.1.7
+mistune==3.0.2
+msal==1.30.0
+msgpack==1.0.8
+multidict==6.0.5
+multiprocess==0.70.16
+nest-asyncio==1.6.0
+ninja==1.11.1.1
+numba==0.57.1
+openai==1.43.0
+optimum==1.16.1
+optuna==3.3.0
+ordered-set==4.1.0
+outlines==0.0.34
+overrides==7.7.0
+packaging==24.1
+pandocfilters==1.5.1
+parso==0.8.4
+peft==0.12.0
+pexpect==4.9.0
+platformdirs==4.2.2
+prometheus-client==0.20.0
+prompt-toolkit==3.0.47
+
+psutil==5.9.8
+ptyprocess==0.7.0
+pubchempy==1.0.4
+pure-eval==0.2.3
+py-cpuinfo==9.0.0
+
+pycparser==2.22
+
+pydot==3.0.1
+pyformlang==1.0.10
+pygments==2.18.0
+pyjwt==2.9.0
+pynvml==11.5.0
+pyparsing==3.1.4
+python-dateutil==2.9.0.post0
+python-dotenv==1.0.1
+python-json-logger==2.0.7
+pytz==2024.1
+pyzmq==26.2.0
+ray==2.35.0
+referencing==0.35.1
+regex==2024.7.24
+rfc3339-validator==0.1.4
+rfc3986-validator==0.1.1
+rouge==1.0.1
+rpds-py==0.20.0
+
+seaborn==0.13.2
+send2trash==1.8.3
+
+shap==0.46.0
+six==1.16.0
+slicer==0.0.8
+sniffio==1.3.1
+soupsieve==2.6
+sqlalchemy==2.0.32
+stack-data==0.6.3
+starlette==0.36.3
+terminado==0.18.1
+tiktoken==0.6.0
+tinycss2==1.3.0
+tornado==6.4.1
+
+traitlets==5.14.3
+types-python-dateutil==2.9.0.20240821
+tzdata==2024.1
+uri-template==1.3.0
+
+uvloop==0.19.0
+
+watchfiles==0.24.0
+wcwidth==0.2.13
+webcolors==24.8.0
+webencodings==0.5.1
+websocket-client==1.8.0
+websockets==12.0
+xxhash==3.5.0
+yarl==1.9.6

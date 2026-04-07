@@ -1,0 +1,20 @@
+
+**Mechanism of Action Description**
+
+Cisplatin is a platinum-based chemotherapeutic agent that exerts its cytotoxic effects primarily through the disruption of DNA replication. The drug is a neutral, square-planar platinum(II) complex, characterized by two ammonia ligands and two chloride ligands. Upon entering cells, cisplatin undergoes aquation, where the chloride ligands are replaced by water molecules, facilitating the formation of intrastrand crosslinks with DNA.
+
+The primary DNA target of cisplatin is the N7 position of guanine and adenine bases, with a preference for adjacent guanines on the same strand. The resulting intrastrand crosslinks distort the DNA helix, hindering DNA replication and transcription. This leads to the activation of cell cycle checkpoints and the initiation of apoptosis, ultimately resulting in the death of rapidly dividing cancer cells.
+
+Recent research has also highlighted the immunomodulatory effects of cisplatin. The drug promotes dendritic cell activation and antigen-specific T cell killing, contributing to its efficacy in certain cancers. These immunomodulatory effects are particularly significant when cisplatin is combined with other immunotherapies, such as atezolizumab, leading to improved outcomes in metastatic urothelial cancer.
+
+**Metabolism Description**
+
+Cisplatin is primarily eliminated via renal excretion, with minimal metabolism occurring in the body. The lack of metabolism is attributed to the stability of the platinum-DNA adducts, which resist enzymatic degradation. Consequently, cisplatin's cytotoxic effects are primarily a result of its direct interaction with DNA, rather than any secondary metabolic processes.
+
+However, it's important to note that cisplatin's efficacy can be significantly enhanced when administered concomitantly with certain bioactive constituents, such as ginsenosides. These compounds can bolster the anticancer efficacy of cisplatin and counteract cisplatin resistance, culminating in enhanced therapeutic outcomes.
+
+**Additional Relevant Information**
+
+Despite its widespread use, cisplatin is associated with several severe adverse effects, including nephrotoxicity, gastrointestinal toxicity, neurotoxicity, and ototoxicity. Over the past decade, there has been a surge in the number of clinical cases reporting cisplatin-induced cardiotoxicity, including tachycardia and bradycardia, which can be lethal.
+
+To address these challenges, researchers are exploring new platinum salts agents, new cisplatin formulations, and new combinations to increase the cytotoxic potency of cisplatin or overcome the resistance mechanisms. These efforts aim to maintain cisplatin's unwavering position as a gold standard regimen in oncology while reducing its associated toxicities.

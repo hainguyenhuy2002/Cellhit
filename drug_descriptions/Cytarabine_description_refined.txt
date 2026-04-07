@@ -1,0 +1,18 @@
+
+**Mechanism of Action Description**
+
+Cytarabine, a potent antimetabolite, interferes with DNA synthesis, making it effective in treating certain hematologic malignancies such as acute myeloid leukemia. It is a synthetic pyrimidine nucleoside analogue of cytidine, where the deoxyribose sugar has been replaced by arabinose. This structural modification allows cytarabine to act as a competitive inhibitor of the enzyme DNA polymerase, which is essential for DNA replication and repair. Once inside the cell, cytarabine is phosphorylated by deoxycytidine kinase to form cytarabine triphosphate (ara-CTP), an active metabolite. This metabolite is then incorporated into DNA strands during replication, leading to the termination of DNA synthesis and subsequent apoptosis of rapidly dividing cells, such as cancer cells.
+
+**Metabolism Description**
+
+Cytarabine is primarily metabolized in the liver by the enzyme cytidine deaminase, which converts cytarabine to the inactive metabolite uridine. This deamination reaction occurs rapidly, with a half-life of approximately 10 minutes, and is followed by renal excretion of the inactive metabolite. In addition to cytidine deaminase, cytarabine can also be metabolized by other enzymes, including deoxycytidine kinase and 5'-nucleotidase. These enzymes are responsible for the phosphorylation and dephosphorylation of cytarabine, playing a role in the regulation of intracellular concentrations of the active metabolite ara-CTP.
+
+**Additional Relevant Information**
+
+Cytarabine's mechanism of action and metabolism contribute to its therapeutic effects and side effects. For instance, the drug's primary toxicity is myelosuppression and gastrointestinal disturbance. However, in recent years, neurotoxicity has been increasingly recognized as a cytarabine effect, particularly with intrathecal (IT) cytarabine. Combined IT drug and cranial irradiation may lead to necrotizing leukoencephalopathy. Intravenous (IV) therapy may cause a peripheral neuropathy that varies in severity. High IV cytarabine doses can cause seizures, cerebral dysfunction, or an acute cerebellar syndrome with an incidence up to 14%. Patient age (greater than 60 years) appears to be the most important risk factor for neurotoxicity, but drug dose/schedule, cumulative drug dose, renal and hepatic dysfunction, and concomitant use of neurotropic antiemetic agents may also influence the risk.
+
+Furthermore, liposomal-encapsulated cytarabine, such as VYXEOS<sup>™</sup>, has shown promising results in the treatment of acute myeloid leukemia (AML) with myelodysplasia-related changes (MRC). It is approved in several countries worldwide for the treatment of adults with therapy-related acute myeloid leukemia (tAML) and AML with myelodysplasia-related changes (MRC). VYXEOS significantly prolonged overall survival (OS) and event-free survival (EFS) relative to conventional chemotherapy with cytarabine plus daunorubicin (7 + 3). It was also associated with significantly higher rates of complete remission (CR) and CR with incomplete haematological recovery (CRi) compared with 7 + 3. VYXEOS had an acceptable tolerability profile in older patients with newly diagnosed high-risk/secondary AML.
+
+In addition to its therapeutic uses, the safety profile of cytarabine, including types and severities of adverse events, is generally similar to that of other antileukemic agents. However, a better understanding of the pathophysiology and pharmacology of cytarabine-induced neuronal injury will allow this drug to be used with greater efficacy and safety.
+
+Lastly, liposomal cytarabine, such as Depocyte, is a sustained-release formulation of cytarabine, ensuring prolonged cytotoxic drug
