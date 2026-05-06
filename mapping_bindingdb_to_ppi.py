@@ -13,7 +13,7 @@ SLEEP     = 1         # seconds between batches (be polite to the API)
 STRING_API = "https://string-db.org/api/json/get_string_ids"
 
 
-with open("unique_proteins.json", "r") as f:
+with open("bindingdb_unique_proteins.json", "r") as f:
     unique_proteins = json.load(f)
 
 unique_proteins_demo = list(unique_proteins)
@@ -66,6 +66,6 @@ mapping_df = pd.DataFrame([
 mapping_df.columns = ["Target Name", "STRING_id", "STRING_preferred_name"]
 
 
-mapping_df.to_csv("protein_mapping_results.csv", index=False)
+mapping_df.to_csv("bindingdb_protein_mapping_results.csv", index=False)
 
-print("\n✅ Mapping complete. Results saved to 'protein_mapping_results.csv'.")
+print("\n✅ Mapping complete. Results saved to 'bindingdb_protein_mapping_results.csv'.")

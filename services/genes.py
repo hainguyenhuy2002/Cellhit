@@ -60,7 +60,7 @@ def get_active_genes(df_drugcombs, metadata, ccle_expression, threshold=1000):
     ccle_expression_filter.columns = ccle_expression_filter.columns.str.replace(r'\(.*\)', '', regex=True).str.strip()
 
     active_genes = ccle_expression_filter.columns.tolist()
-    return active_genes, ccle_expression_filter
+    return active_genes, ccle_expression_filter, df_drugcombs
 
 
 def map_uniprot_to_gene(mg, uniprot_ids, batch_size=1000):
